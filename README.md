@@ -23,8 +23,8 @@ Data analysis project based on the Titanic dataset using Python, Pandas, and Num
 titanic-analysis/
 │
 ├── data/
-├── modules/
-├── run.py
+├── data_processing/
+├── main.py
 ├── requirements.txt
 └── README.md
 ```
